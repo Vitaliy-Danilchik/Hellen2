@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-start",
+  "name": "hellen2",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Vitaliy-Danilchik.github.io/parcel-project-start",
+  "homepage": "https://Vitaliy-Danilchik.github.io/hellen2",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-start/"
+    "build": "parcel build src/*.html --public-url /hellen2/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vitaliy-Danilchik/parcel-project-start.git"
+    "url": "git+https://github.com/Vitaliy-Danilchik/hellen2.git"
   },
   "keywords": [],
   "author": "Vitaliy-Danilchik",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vitaliy-Danilchik/parcel-project-start/issues"
+    "url": "https://github.com/Vitaliy-Danilchik/hellen2/issues"
   },
   "alias": {
     "process": false
